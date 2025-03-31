@@ -1,0 +1,3 @@
+http://localhost:3000/api/convert?from=AFN&to=BRL&amount=100
+
+http://localhost:3000/api-docs/
